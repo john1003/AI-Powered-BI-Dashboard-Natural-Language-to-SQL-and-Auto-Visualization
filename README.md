@@ -10,6 +10,12 @@ This system allows users to ask business questions and instantly receive:
 - Automatic visualization (charts)
 
 ---
+## 📸 Demo Screenshots
+
+### 🔹 AI BI Dashboard
+![Dashboard](images/Example.png)
+
+---
 
 ## 🧠 Key Features
 
