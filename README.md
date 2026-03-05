@@ -57,7 +57,7 @@ Auto Chart Visualization
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/john1003/ai-sql-generator-local-llm.git
-cd ai-sql-generator-local-llm
+git clone https://github.com/john1003/AI-Powered-BI-Dashboard-Natural-Language-to-SQL-and-Auto-Visualization.git
+cd AI-Powered-BI-Dashboard-Natural-Language-to-SQL-and-Auto-Visualization
 pip install -r requirements.txt
 streamlit run App.py
